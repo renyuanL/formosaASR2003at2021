@@ -1,0 +1,6 @@
+# formosaASR2003at2021
+This is a Taiwanese/Mandarin bi-lingual speech recognition system
+a demo is here @ https://youtu.be/0VeUV5F40Qc
+
+18年前的程式還能run真是奇蹟，先把mic插好並確認能正常收音，時常當掉請多包涵....
+程式source code 還在，當年是用 borland C++ 做的，我已經早就沒這個compiler，若你們之間誰還有，也許仍可以令其復活....
